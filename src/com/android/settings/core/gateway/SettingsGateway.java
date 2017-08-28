@@ -161,6 +161,7 @@ import com.android.settings.wifi.savedaccesspoints2.SavedAccessPointsWifiSetting
 import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.derpquest.settings.DerpQuestSettings;
+import com.derpquest.settings.fragments.GlobalActionsSettings;
 
 public class SettingsGateway {
 
@@ -310,7 +311,8 @@ public class SettingsGateway {
             InteractAcrossProfilesSettings.class.getName(),
             InteractAcrossProfilesDetails.class.getName(),
             MediaControlsSettings.class.getName(),
-            DerpQuestSettings.class.getName()
+            DerpQuestSettings.class.getName(),
+            GlobalActionsSettings.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -351,5 +353,6 @@ public class SettingsGateway {
             Settings.ModuleLicensesActivity.class.getName(),
             UserBackupSettingsActivity.class.getName(),
             Settings.DerpQuestSettingsActivity.class.getName(),
+            Settings.GlobalActionsSettingsActivity.class.getName(),
     };
 }

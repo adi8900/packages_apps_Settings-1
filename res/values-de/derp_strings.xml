@@ -42,4 +42,7 @@
     <string name="scramble_pin_title">PIN-Scrambling</string>
     <string name="scramble_pin_summary">Steuert die PIN-Scrambling-Option bei der Eingabe der PIN über die Bildschirmsperre.</string>
 
+    <!-- Advanced powermenu -->
+    <string name="global_actions_title">Power-Menü</string>
+
 </resources>
