@@ -48,4 +48,7 @@
     <string name="scramble_pin_title">PIN scrambling</string>
     <string name="scramble_pin_summary">Controls PIN scrambling option when inputting PIN on screen lock.</string>
 
+    <!-- Advanced powermenu -->
+    <string name="global_actions_title">Power menu</string>
+
 </resources>
