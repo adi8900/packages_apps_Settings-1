@@ -38,4 +38,8 @@
     <string name="derp_settings_title">DerpQuest</string>
     <string name="derp_settings_summary">Wo das kaputte Zeug steckt</string>
 
+    <!-- PIN scrambling -->
+    <string name="scramble_pin_title">PIN-Scrambling</string>
+    <string name="scramble_pin_summary">Steuert die PIN-Scrambling-Option bei der Eingabe der PIN über die Bildschirmsperre.</string>
+
 </resources>
