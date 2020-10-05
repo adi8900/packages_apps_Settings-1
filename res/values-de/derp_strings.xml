@@ -51,7 +51,7 @@
 
     <!-- Navbar length -->
     <string name="navbar_length">Länge der Gestenleiste</string>
-    <string name="short_label">Kurz</string>
+    <string name="hidden_label">Versteckt</string>
     <string name="long_label">Lang</string>
 
 </resources>
